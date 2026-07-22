@@ -16,6 +16,8 @@ const Tab1: React.FC = () => {
             <IonTitle size="large">Tab 1</IonTitle>
           </IonToolbar>
         </IonHeader>
+        <p>Este es un mensaje dentro del Tab1
+        </p>
         <ExploreContainer name="Tab 1 page" />
       </IonContent>
     </IonPage>
